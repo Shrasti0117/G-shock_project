@@ -1,1 +1,1 @@
-instruction about the project 
+A fully responsive G-Shock website clone built using HTML, CSS, and JavaScript. This project replicates the design and functionality of the official G-Shock website, showcasing stylish watches with interactive UI elements.
